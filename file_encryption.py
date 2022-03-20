@@ -21,7 +21,6 @@ def b64_to_file_data(string):
     string_data = string.split(" ")
     byte_data = []
     for i in string_data:
-        #print(base64.b64decode(i))
         byte_data.append(base64.b64decode(i))
 
     return byte_data
