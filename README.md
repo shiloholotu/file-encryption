@@ -1,5 +1,5 @@
 # file-encryption
-Simple program that can be used to convert any type of file to string and convert strings into files.
+A simple program that can be used to convert any type of file to string and convert strings into files.
 
 The strings created from files are either representative of base64 text or just normal strings depending on the type of file that is being encrypted
 
